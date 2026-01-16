@@ -2,6 +2,6 @@
 Integrated Programming – JavaScript Projects
 
 Group 8
-Roldan, Mickey John V.
-Ronquillo, Izabela Dorinne P. 
-Sadicon, Jhane Rose U.
+ROLDAN, MICKEY JOHN V.
+RONQUILLO, IZABELA DORINNE P.
+SADICON, JHANE ROSE U.
